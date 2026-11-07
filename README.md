@@ -4,7 +4,8 @@ An Excel dashboard that turns a small retail sales dataset into KPIs, pivot-tabl
 
 ![Dashboard](dashboard.png)
 
-> Add a screenshot of the Dashboard sheet as `dashboard.png` in this folder so it shows above.
+<img width="242" height="230" alt="image" src="https://github.com/user-attachments/assets/8885e4bb-1150-4bb0-a5e2-c4e86bb0906c" />
+
 
 ## What's in the workbook
 
